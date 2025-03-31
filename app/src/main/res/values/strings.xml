@@ -3,6 +3,7 @@
     <string name="hint_email">Digite seu email</string>
     <string name="hint_senha">Digite sua senha</string>
     <string name="button_login">entrar</string>
+    <string name="button_register">cadastrar</string>
     <string name="button_logoff">sair</string>
     <string name="error_login">Email ou senha inválidos</string>
 </resources>
